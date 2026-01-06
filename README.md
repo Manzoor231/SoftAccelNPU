@@ -93,4 +93,5 @@ Edge and low-power inference
 
 Experimental AI runtime research
 
-<p align="center"> <em>Created for the Open-Source AI Community.</em><br/> <strong>© 2026 · SoftAccel Research</strong> </p>
+<p align="center"> <em>Created for the Open-Source Community.</em><br/> <strong>© 2026 · Manzoor Strange</strong> </p>
+
